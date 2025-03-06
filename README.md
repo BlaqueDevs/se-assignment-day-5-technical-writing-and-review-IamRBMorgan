@@ -1,7 +1,7 @@
 # SE-DAY5-Technical-Writing
 ### 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
-- **Impact**: Tailoring your content to your audience's expertise ensures that the information is neither too simplistic nor too complex. For tech experts, you can use technical jargon and dive into detailed explanations. For non-technical audiences, you need to simplify concepts, avoid jargon, and focus on practical outcomes.
+- **Impact**: Tailoring your content to your audience's expertise ensures that the information is neither too simplistic nor too complex. Tech experts can use technical jargon and dive into detailed explanations. For non-technical audiences, you need to simplify concepts, avoid jargon, and focus on practical outcomes.
 
 ---
 
@@ -111,7 +111,3 @@
   - List key features in bullet points for easy scanning.
   - Highlight the main benefits or problems it solves.
   - Use simple language and avoid unnecessary details.
-
-Highlight the main benefits or problems it solves.
-
-Use simple language and avoid unnecessary details.
